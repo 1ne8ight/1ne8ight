@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/tanoh-eliezer-79b372203" target="_blank">
+  <a href="https://linkedin.com/in/tanoh-eliezer-bonny-79b372203" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/the__1ne.8ight" target="_blank">
